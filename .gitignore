@@ -1,0 +1,4 @@
+prive/
+*.local.json
+edf-data.json
+.DS_Store
